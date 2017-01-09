@@ -1,0 +1,25 @@
+Package: Rlinkedin
+Version: 0.1.1
+Title: Access to the LinkedIn API via R
+Description: A series of functions that allow users
+  to access the LinkedIn API to get information about connections,
+  search for people and jobs, share updates with their network,
+  and create group discussions.  For more information about using
+  the API please visit https://developer.linkedin.com/.
+Author: Michael Piccirilli <michael.r.piccirilli@gmail.com>
+Maintainer: Michael Piccirilli <michael.r.piccirilli@gmail.com>
+Depends: R (>= 2.12.0), httr, XML, httpuv
+License: GPL-2
+LazyData: true
+URL: https://github.com/mpiccirilli/Rlinkedin
+RemoteType: github
+RemoteHost: api.github.com
+RemoteRepo: Rlinkedin
+RemoteUsername: mpiccirilli
+RemoteRef: master
+RemoteSha: b131a4faa87bbda6b80cba26c6d75ec0b31367eb
+GithubRepo: Rlinkedin
+GithubUsername: mpiccirilli
+GithubRef: master
+GithubSHA1: b131a4faa87bbda6b80cba26c6d75ec0b31367eb
+Built: R 3.2.2; ; 2015-12-31 12:25:11 UTC; windows
